@@ -1,5 +1,5 @@
 ### 🧩 Welcome ( •̀ ω •́ )✧ to my Github 🌱
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=[https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8](https://szun8.notion.site/PORTFOLIO-233c5a3ffcf94fb18f01103b4f1076ab?pvs=4))](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8) <a href="https://velog.io/@szun8"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=[https://szun8.notion.site/PORTFOLIO-Choi-Sieun-2c9fff2c9b8d4183a34d3beeec2b52e0)](https://szun8.notion.site/PORTFOLIO-Choi-Sieun-2c9fff2c9b8d4183a34d3beeec2b52e0) <a href="https://velog.io/@szun8"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
 - 🕹️ 일상을 게임속에 그려내고 싶은 <b>클라이언트 프로그래머</b>입니다
 - ☘️ 楽을 위해 원하는 것을 꾸준히 찾아다닙니다
