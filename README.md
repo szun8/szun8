@@ -6,7 +6,7 @@
 
 
 #### { Now I'm Studying 📚 }
-<img src="https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/DirectX-83B81A?style=flat-square&logo=X&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white"/> <a href="https://szun8.notion.site/DirectX-11-0ec3e8a53ac647b1b805b5255161ffe3?pvs=74"><img src="https://img.shields.io/badge/DirectX-83B81A?style=flat-square&logo=X&logoColor=white"/>
 #### { Language & Tools 💻 }
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
