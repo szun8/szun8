@@ -13,4 +13,3 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szun8&theme=vue&show_icons=true&layout=compact)](https://github.com/szun8)
-[![Solved.프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tldmschl81)](https://solved.ac/tldmschl81)
