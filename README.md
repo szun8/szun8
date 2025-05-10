@@ -15,8 +15,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tldmschl81)](https:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szun8&theme=vue&show_icons=true&layout=compact)](https://github.com/szun8)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szun8&theme=vue&show_icons=true&layout=compact)](https://github.com/szun8) 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/szun8"/>
+  <img src="https://render.gitanimals.org/farms/szun8" width = "250" height = "120"/>
 </a>
