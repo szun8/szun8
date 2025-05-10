@@ -17,5 +17,5 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=tldmschl81)](https:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szun8&theme=vue&show_icons=true&layout=compact)](https://github.com/szun8) 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/szun8" width = "250" height = "120"/>
+  <img src="https://render.gitanimals.org/farms/szun8" width = "330" height = "200"/>
 </a>
